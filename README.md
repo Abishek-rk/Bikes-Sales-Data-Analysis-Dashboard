@@ -10,4 +10,4 @@ The project is to analyze bike sales data to identify key factors influencing sa
 - Highest Purchasing Age Category
 - Impact of Commute Distance on Purchases
 
-- Dashboard Interaction - <a href="">View Dashboard</a>
+- Dashboard Interaction - <a href="https://github.com/Abishek-rk/Bikes-Sales-Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot.png">View Dashboard</a>
