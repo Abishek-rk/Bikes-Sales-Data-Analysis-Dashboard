@@ -4,3 +4,10 @@ The project is to analyze bike sales data to identify key factors influencing sa
 
 ## Dataset Used
 - <a href="https://github.com/Abishek-rk/Bikes-Sales-Data-Analysis-Dashboard/blob/main/Dataset.xlsx">Dataset</a>
+
+## Question (KPIs)
+- Bike Purchase Rate by Gender
+- Highest Purchasing Age Category
+- Impact of Commute Distance on Purchases
+
+- Dashboard Interaction - <a href="">View Dashboard</a>
