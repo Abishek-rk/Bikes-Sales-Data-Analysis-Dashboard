@@ -11,3 +11,13 @@ The project is to analyze bike sales data to identify key factors influencing sa
 - Impact of Commute Distance on Purchases
 
 - Dashboard Interaction - <a href="https://github.com/Abishek-rk/Bikes-Sales-Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot.png">View Dashboard</a>
+
+##Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+![Dashboard Screenshot
