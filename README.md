@@ -20,4 +20,4 @@ The project is to analyze bike sales data to identify key factors influencing sa
 
 ## Dashboard
 
-![Dashboard Screenshot
+![Dashboard Screenshot](https://raw.githubusercontent.com/Abishek-rk/Bikes-Sales-Data-Analysis-Dashboard/refs/heads/main/Dashboard%20Screenshot.png)
