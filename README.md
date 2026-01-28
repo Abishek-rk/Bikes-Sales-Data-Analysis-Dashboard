@@ -21,3 +21,11 @@ The project is to analyze bike sales data to identify key factors influencing sa
 ## Dashboard
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Abishek-rk/Bikes-Sales-Data-Analysis-Dashboard/refs/heads/main/Dashboard%20Screenshot.png)
+
+## Project Insight
+Gender and income together influence bike purchasing behavior.
+Middle-aged customers are the primary target segment for bike sales.
+Short-distance commuters are more likely to buy bikes.
+
+## Final Conclusion:
+The bike sales analysis reveals clear patterns in customer purchasing behavior. Middle-aged customers represent the largest group of bike buyers, making them the most valuable target segment. Income plays a significant role, as customers with higher average income—particularly males—are more likely to purchase bikes. Commute distance also influences buying decisions, with customers traveling shorter distances (0–1 miles) showing the highest purchase rates. Overall, the insights highlight that demographic factors, income levels, and commute habits strongly impact bike sales, enabling businesses to design focused marketing strategies, optimize inventory, and improve sales performance through data-driven decision-making.
